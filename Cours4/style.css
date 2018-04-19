@@ -30,6 +30,7 @@ h2 {
 
 p{
   color: #044048;
+  font-size: 0.8em;
 }
 
 a { 
@@ -70,11 +71,11 @@ nav ul {
 
 /* Mis en forme de la baseline */
 #baseline{
-  background-color: #41A3C0;
+  background-image: url(acai_bowl_breakfast_7.jpg);
+  background-position:50% 30%;
   text-align: center;
   background-size: cover;
   padding: 150px;
-  color: white;
   text-shadow: 1px 1px 5px black;
 }
 
@@ -101,7 +102,7 @@ nav ul {
   width: 400px;  
 }
 
-  #apropos{
+#apropos{
   margin: 0 auto;
   width: 80%;
   display:flex;
