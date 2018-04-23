@@ -42,6 +42,14 @@ a:hover {
   color: rgb(225, 0, 152);
 }
 
+footer{
+  text-align: center;
+}
+
+section {
+  text-align: center;
+}
+
 nav li {
   margin: 10px;
   display:inline;
@@ -82,6 +90,12 @@ nav ul {
 #baseline h1 {
   color: white;
   font-size: 50px;
+}
+
+#defis{
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
 }
 
 #baseline a:hover {
